@@ -28,4 +28,4 @@ Full-stack observability consultant with 10 years of experience across
 AppDynamics, Splunk O11y Cloud, and OpenTelemetry. Focused on architecting 
 scalable, AI-ready observability solutions for enterprise environments.
 
-[LinkedIn](your-linkedin-url-here)
+[www.linkedin.com/in/diguva-nagarjuna](your-linkedin-url-here)
