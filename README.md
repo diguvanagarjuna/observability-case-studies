@@ -1,4 +1,4 @@
-# observability-playbooks
+# Observability-playbooks
 
 Observability guides, OTel Collector configs, and troubleshooting patterns from full-stack observability experience.
 
