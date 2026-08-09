@@ -1,24 +1,26 @@
-# observability-case-studies
-Real-world observability case studies, OTel Collector configs, and troubleshooting notes from Splunk O11y
+Here's the reframed version:
 
+markdown
+# observability-playbooks
 
-# Observability case studies
+Observability guides, OTel Collector configs, and troubleshooting patterns from full-stack observability experience.
 
-Real-world observability case studies, OpenTelemetry Collector configs, and 
-troubleshooting notes drawn from full-stack observability engagements across 
+# Observability Playbooks
+
+Observability guides, OpenTelemetry Collector configs, and troubleshooting 
+patterns built from full-stack observability experience across 
 APM, Infrastructure Monitoring, Synthetic Monitoring, RUM, and OpenTelemetry.
-
 
 ## What's here
 
-- **case-studies/**
-  — real troubleshooting scenarios: issue, root cause, resolution, and best-practice takeaway
-  
+- **guides/**
+  — troubleshooting patterns and architecture guidance: common issue, root cause, resolution approach, and best-practice takeaway
+
 - **otel-collector-configs/**
-— sanitized OpenTelemetry Collector pipeline examples (receivers, processors, exporters)
+  — example OpenTelemetry Collector pipeline configs (receivers, processors, exporters)
 
 - **signalflow-examples/**
-— Splunk O11y SignalFlow detector snippets
+  — Splunk O11y SignalFlow query patterns
 
 - **ai-scripts/** — small scripts exploring AI-assisted observability workflows
 
@@ -28,5 +30,5 @@ Full-stack observability consultant with 10 years of experience across
 AppDynamics, Splunk O11y Cloud, and OpenTelemetry. Focused on architecting 
 scalable, AI-ready observability solutions for enterprise environments.
 
-LinkedIN
-www.linkedin.com/in/diguva-nagarjuna
+LinkedIn
+[www.linkedin.com/in/diguva-nagarjuna](https://www.linkedin.com/in/diguva-nagarjuna
