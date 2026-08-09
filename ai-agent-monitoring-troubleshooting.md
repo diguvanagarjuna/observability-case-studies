@@ -3,8 +3,7 @@
 A practical reference for diagnosing common issues when AI/LLM application telemetry
 doesn't show up correctly in Splunk Observability Cloud's AI Monitoring pages
 (AI Overview, AI Agents, AI Trace Data). Based on OpenTelemetry GenAI semantic
-conventions and general observability troubleshooting patterns — not tied to any
-specific customer or case.
+conventions and general observability troubleshooting patterns 
 
 ## Why AI Agent Monitoring behaves differently from normal APM
 
