@@ -1,6 +1,3 @@
-Here's the reframed version:
-
-markdown
 # observability-playbooks
 
 Observability guides, OTel Collector configs, and troubleshooting patterns from full-stack observability experience.
@@ -31,4 +28,4 @@ AppDynamics, Splunk O11y Cloud, and OpenTelemetry. Focused on architecting
 scalable, AI-ready observability solutions for enterprise environments.
 
 LinkedIn
-[www.linkedin.com/in/diguva-nagarjuna](https://www.linkedin.com/in/diguva-nagarjuna
+[www.linkedin.com/in/diguva-nagarjuna](https://www.linkedin.com/in/diguva-nagarjuna)
